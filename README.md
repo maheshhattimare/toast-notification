@@ -4,7 +4,7 @@ A simple and interactive toast notification application built with HTML, CSS, an
 
 ## Visit the Website
 
-[Age Calculator](https://maheshhattimare.github.io/toast-notification/)
+[Toast Notification](https://maheshhattimare.github.io/toast-notification/)
 
 ## Features
 
