@@ -13,7 +13,7 @@ A simple and interactive toast notification application built with HTML, CSS, an
 
 ## Technologies Used
 
-- HTML
+- HTML 
 - CSS
 - JavaScript
 
